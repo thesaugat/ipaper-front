@@ -11,8 +11,6 @@ Follow these steps to build and run the project in a Docker container.
 
 ### 1. Clone the Repository
 
-If this repository is hosted on a Git platform, clone the repository:
-
 ```bash
 git clone <repository-url>
 cd my-react-app
